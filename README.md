@@ -11,10 +11,10 @@ If you wish to educate yourself on how I have solved these problems using python
 - 3: Largest prime factor
 - 4: Largest palindrome product
 - 6: Sum square difference
-- 7: 10001st prime
+- 7: 10001st prime - my unresearched calculation of primes
 - 8: Largest product in a series
 - 9: Special Pythagorean triplet
-- 10: Summation of primes
+- 10: Summation of primes - implements sieve of Erosthenes for primes
 - 11: Largest product in a grid
 - 12: Highly divisible triangular number
 - 13: Large sum
@@ -30,6 +30,7 @@ If you wish to educate yourself on how I have solved these problems using python
 - 24: Lexographic permutations
 - 25: 1000-digit Fibonacci number
 - 26: Reciprocal cycles
+- 27: Quadratic primes
 - 32: Pandigital products
 - 51: Prime digit replacements
 - 60: Prime pair sets
