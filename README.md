@@ -31,6 +31,8 @@ If you wish to educate yourself on how I have solved these problems using python
 - 25: 1000-digit Fibonacci number
 - 26: Reciprocal cycles
 - 27: Quadratic primes
+- 28: Number spiral diagonals
+- 29: Distinct powers
 - 32: Pandigital products
 - 51: Prime digit replacements
 - 60: Prime pair sets
