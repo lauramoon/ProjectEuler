@@ -94,3 +94,5 @@ def count_divisors_triangular_number(n):
         # return triangular number if number of divisors is high enough
         if divs > n:
             return tri_num
+
+print(count_divisors_triangular_number(500))

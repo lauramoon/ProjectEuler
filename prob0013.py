@@ -1,6 +1,7 @@
 """Project Euler Problem 13. https://projecteuler.net/problem=13"""
 import requests
 import bs4
+import lxml
 
 
 def get_page():
