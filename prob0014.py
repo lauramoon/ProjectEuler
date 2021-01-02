@@ -2,6 +2,7 @@
 Project Euler Problem 14. https://projecteuler.net/problem=14 Collatz Sequence
 """
 
+
 def find_next(num):
     """
     Finds next integer in Collatz sequence, where the next integer after n is
@@ -13,6 +14,7 @@ def find_next(num):
         return int(num/2)
     else:
         return 3*num +1
+
 
 def find_length(num):
     """

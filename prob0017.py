@@ -21,7 +21,3 @@ total = 190 * one_to_nine + 10 * ten_to_nineteen + 100 * twenty_to_ninety + 9 * 
 one_to_ninety_nine = one_to_nine + ten_to_nineteen + 10 * twenty_to_ninety + 8 * one_to_nine
 plain_hundreds = one_to_nine + 9 * hundred
 fancy_hundreds = plain_hundreds * 99 + 3 * 99 * 9 + one_to_ninety_nine * 9
-
-
-
-

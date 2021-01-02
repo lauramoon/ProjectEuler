@@ -53,6 +53,7 @@ def get_prime_list(low, num):
 
     return result
 
+
 def check_for_replacements(prime, digit, prime_set):
     """
     replaces the 3 given digits in given prime with lower digits,
@@ -120,8 +121,3 @@ def digit_replacement():
 
 
 print(digit_replacement())
-
-
-
-
-
