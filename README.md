@@ -33,7 +33,11 @@ If you wish to educate yourself on how I have solved these problems using python
 - 27: Quadratic primes
 - 28: Number spiral diagonals
 - 29: Distinct powers
+- 30: Digit fifth powers
+- 31: Coin sums  
 - 32: Pandigital products
+- 33: Digit cancelling fractions
+- 34: Digit factorials  
 - 51: Prime digit replacements
 - 60: Prime pair sets
 
